@@ -1,6 +1,5 @@
-# Generate a README.md file with the improved content
 
-readme_content = """# 📈 Financial News Sentiment Analysis
+# 📈 Financial News Sentiment Analysis
 
 ## 🧠 Overview
 
